@@ -2,7 +2,7 @@
 
 Name:		python-aiot-bootrom
 Version:	1.1.4
-Release:	1
+Release:	2
 Source0:	https://gitlab.com/mediatek/aiot/bsp/aiot-bootrom/-/archive/main/aiot-bootrom-main.tar.bz2
 Summary:	Python library for handling the boot ROM on Mediatek AIoT SoCs
 URL:		https://gitlab.com/mediatek/aiot/bsp/aiot-bootrom
